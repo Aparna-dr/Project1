@@ -1,2 +1,6 @@
 This is my first file
 The file name cafe.txt
+
+Adding iterm
+Coffee
+Cappuccino
