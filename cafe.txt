@@ -4,3 +4,6 @@ The file name cafe.txt
 Adding iterm
 Coffee
 Cappuccino
+
+New changes
+Tea
